@@ -32,7 +32,7 @@ Qualification phase reports will be evaluated by a team of experts, and will tak
 
 The top teams of each region (US-Canada, Europe, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level reverse-engineering on a series of increasingly secure programs. Each exploited program will be worth a number of points depending on its difficulty.
 
-A detailed description of the final phase [is provided here](final_phase.md).
+A detailed description of the final phase will be provided when the finalists are announced.
 
 The teams should compose a **final report** detailing their approaches. The definitive goal is to demonstrate their methods during the finals.
 
