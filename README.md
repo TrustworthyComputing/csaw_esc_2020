@@ -1,5 +1,4 @@
-
-CSAW 2020 Embedded Security Challenge (ESC)
+CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICENSE)
 ===========================================
 <p align="center">
   <img src="https://www.crowdsupply.com/img/74ed/hifive1-revb-updatedlogo-03_png_project-body.jpg" alt="ESC20 WiFi AP Board"/>
@@ -10,7 +9,7 @@ CSAW 2020 Embedded Security Challenge (ESC)
 The Embedded Security Challenge (ESC) returns in 2020 for the 13<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the largest student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
 
-ESC 2020 will be a **world-wide virtual event** held simultaneously in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on November 5-8, 2020. The venues for each region are:
+ESC 2020 will be a **world-wide virtual event** held simultaneously in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on November 5-8, 2020. The organizing institutions for each region are:
 
 -   **CSAW US-Canada**: NYU Tandon School of Engineering, Brooklyn, USA.
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
@@ -55,3 +54,5 @@ For more registration information, policies, deadlines, deliverable details, and
 **Teams are encouraged to start investigating the challenge as early as possible.**
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
+
+[badge-license]: https://img.shields.io/badge/license-MIT-green.svg
