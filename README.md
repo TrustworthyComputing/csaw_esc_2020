@@ -6,10 +6,10 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
 
 ## Overview
 
-The Embedded Security Challenge (ESC) returns in 2020 for the 13<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the largest student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
+The Embedded Security Challenge (ESC) returns in 2020 for the 13<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
 
-ESC 2020 will be a **world-wide virtual event** held simultaneously in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on November 5-8, 2020. The organizing institutions for each region are:
+ESC 2020 will be a **world-wide virtual event** held simultaneously in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on 5-8 November 2020. The organizers for each region are:
 
 -   **CSAW US-Canada**: NYU Tandon School of Engineering, Brooklyn, USA.
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
@@ -31,15 +31,15 @@ Further details and specifics can be found on the [challenge description](challe
 Students of all university levels are invited to compete. Each team must have a **team leader** and up to 3 additional team members (a total of 4 participants per team). Each team leader is responsible for coordinating with other members of their team and will be the point of contact for the entire team. Each team must also have a university **faculty advisor**.
 
 
-The team leaders need to register their team members and faculty advisor electronically at https://hotcrp.engineering.nyu.edu/, using their team name as the 'Submission Title'. ESC uses a HotCRP-based registration and submission system for both the qualification and final rounds, and teams **must register before finalizing their report and computer file submissions** by the posted deadlines. 
+The team leaders need to register their team members and faculty advisor electronically at https://hotcrp.engineering.nyu.edu/, using their team name as the 'Submission Title'. ESC uses a HotCRP-based registration and submission system for both the qualification and final rounds, and teams **must register before finalizing their report and computer file submissions** by the posted deadlines.
 
 
 Each team is eligible to register for **only one region** based on university affiliation: Europe, India, MENA, or US-Canada, as defined below. While team members do not need to attend the same university, all team members must be a part of the same region.
 
 
--   **Europe:** Hosting students from universities located in the European Union, Switzerland, Norway, or Armenia.
+-   **Europe:** Hosting students from universities located in the European Union, Switzerland, Norway, Armenia, United Kingdom.
 -   **India:** Hosting students from universities located in India.
--   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Jordan, Iraq, Iran, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen.
+-   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen.
 -   **US-Canada**: Hosting students from universities located within the United States or Canada.
 
 

@@ -3,7 +3,7 @@ Competition Deadlines
 
 -   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: **8 September 2020**
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  **22 September 2020**
--   Announcement of teams qualified to the final phase: **24 September, 2020**
+-   Announcement of teams qualified to the final phase: **24 September 2020**
 -   Final reports and associated computer files due in [HotCRP](https://hotcrp.engineering.nyu.edu/): **31 October 2020**
 
 **(All deadlines are 11:59 pm eastern US timezone)**
@@ -29,7 +29,7 @@ For the final phase, each qualified team must upload a **final PDF report** to t
 Final Round Logistics
 ---------------------
 
-**Each region has different team sponsorship, prize policies, and travel awards for the Final Round competition.** Please visit [https://csaw.io](https://csaw.io) for more details.
+**Each region has different prize policies for the Final Round competition.** Please visit [https://csaw.io](https://csaw.io) for more details.
 
 
 Each CSAW region will announce separate winners for the first, second and third place.

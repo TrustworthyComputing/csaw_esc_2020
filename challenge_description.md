@@ -38,7 +38,7 @@ The teams should compose a **final report** detailing their approaches. The defi
 
 ### Timed-Attack Phase
 
-On the day of the virtual finals, each region will receive a timed-attack challenge binary. This binary will have a new challenge that teams will race to solve as quickly as possible during the competition. Teams should be prepared with the provided RISC-V board and be able to program it with a vulnerable payload to defeat this timed challenge. As this phase is a race, the first team to successfully solve the challenge complete it will receive 200 extra points to their final challenge score. The second team will receive 100 extra points, and the third team will receive 50 extra points (other teams will not receive extra points).
+On the day of the virtual finals, each region will receive a timed-attack challenge binary. This binary will have a new challenge that teams will race to solve as quickly as possible during the competition. Teams should be prepared with the provided RISC-V board and be able to program it with a vulnerable payload to defeat this timed challenge. As this phase is a race, the first team to successfully solve the challenge completely will receive 200 extra points to their final challenge score. The second team will receive 100 extra points, and the third team will receive 50 extra points (other teams will not receive extra points).
 
 
 ## Evaluation and Grading Policies
