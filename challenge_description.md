@@ -6,7 +6,7 @@ The theme of this year's ESC competition is **exploiting the firmware of a custo
 
 The ESC 2020 competition will strengthen students' understanding of firmware exploitation and familiarize them with industry tools in an interactive environment.
 
-See the [grading details](#grading) below for more information on evaluation.
+See the [grading details](#evaluation-and-grading-policies) below for more information on evaluation.
 
 
 ## Challenge structure

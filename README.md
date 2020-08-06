@@ -9,14 +9,13 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
 The Embedded Security Challenge (ESC) returns in 2020 for the 13<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
 
-ESC 2020 will be a **world-wide virtual event** held simultaneously in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on 5-8 November 2020. The organizers for each region are:
+ESC 2020 will be a **world-wide virtual event** held simultaneously in multiple regions: US-Canada, Middle East & North Africa, and India, with the finals taking place on 5-8 November 2020. The organizers for each region are:<sup>1</sup>
 
 -   **CSAW US-Canada**: NYU Tandon School of Engineering, Brooklyn, USA.
--   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
 -   **CSAW MENA**: NYU Abu Dhabi, Abu Dhabi, UAE.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Charles Gouert, Dimitris Mouris and Lars Folkerts, who are also the US-Canada region challenge leads. In Europe, the competition is organized by Professor Vincent Beroulle. In the MENA region, the competition is coordinated by Professor Michail Maniatakos. In India, ESC is supervised by Professor Sandeep Shukla, with Rohit Negi as the regional challenge lead.
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Charles Gouert, Dimitris Mouris and Lars Folkerts, who are also the US-Canada region challenge leads. In the MENA region, the competition is coordinated by Professor Michail Maniatakos with Dimitris Tychalas as the regional challenge lead. In India, ESC is supervised by Professor Sandeep Shukla, with Rohit Negi as the regional challenge lead.
 
 ## Challenge Summary
 This year's ESC focuses on the security of Internet of Things (IoT), which are embedded devices with network connectivity. IoT are ubiquitous in modern smart infrastructure with an estimate of over 20 billion IoT devices connected today.
@@ -34,13 +33,11 @@ Students of all university levels are invited to compete. Each team must have a 
 The team leaders need to register their team members and faculty advisor electronically at https://hotcrp.engineering.nyu.edu/, using their team name as the 'Submission Title'. ESC uses a HotCRP-based registration and submission system for both the qualification and final rounds, and teams **must register before finalizing their report and computer file submissions** by the posted deadlines.
 
 
-Each team is eligible to register for **only one region** based on university affiliation: Europe, India, MENA, or US-Canada, as defined below. While team members do not need to attend the same university, all team members must be a part of the same region.
+Each team is eligible to register for **only one region** based on university affiliation: India, MENA, or US-Canada, as defined below. While team members do not need to attend the same university, all team members must be a part of the same region.<sup>1</sup>
 
-
--   **Europe:** Hosting students from universities located in the European Union, Switzerland, Norway, Armenia, United Kingdom.
+-   **US-Canada**: Hosting students from universities located within the United States or Canada.
 -   **India:** Hosting students from universities located in India.
 -   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen.
--   **US-Canada**: Hosting students from universities located within the United States or Canada.
 
 
 To be able to qualify to the final round, each team must register for the correct region based on the university affiliations of its members.
@@ -54,5 +51,9 @@ For more registration information, policies, deadlines, deliverable details, and
 **Teams are encouraged to start investigating the challenge as early as possible.**
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
+
+
+---
+<sup>1</sup>_Organization of ESC in Europe (hosting students from universities located in the European Union, Switzerland, Norway, Armenia, United Kingdom) is currently pending. Updates regarding Europe will be posted on this page as soon as this is confirmed by the regional organizers._
 
 [badge-license]: https://img.shields.io/badge/license-MIT-green.svg
