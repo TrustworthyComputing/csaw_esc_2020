@@ -4,6 +4,16 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
   <img src="https://www.crowdsupply.com/img/74ed/hifive1-revb-updatedlogo-03_png_project-body.jpg" alt="ESC20 WiFi AP Board"/>
 </p>
 
+
+## Important URLs
+
+* Registration: https://github.com/TrustworthyComputing/csaw_esc_2020#registration
+* Competition Deadlines: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines
+* Challenge Description: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/challenge_description.md#esc-2020-challenge-description
+* Logistics: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md
+* Deliverables: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#deliverables
+
+
 ## Overview
 
 The Embedded Security Challenge (ESC) returns in 2020 for the 13<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
