@@ -5,13 +5,13 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
 </p>
 
 
-## Important URLs
+## Quick Links
 
-* Registration: https://github.com/TrustworthyComputing/csaw_esc_2020#registration
-* Competition Deadlines: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines
-* Challenge Description: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/challenge_description.md#esc-2020-challenge-description
-* Logistics: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md
-* Deliverables: https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#deliverables
+* [Registration](https://github.com/TrustworthyComputing/csaw_esc_2020#registration)
+* [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines)
+* [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/challenge_description.md#esc-2020-challenge-description)
+* [Qualification Binary](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/qual-esc2020.elf)
+* [Qualification Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#deliverables)
 
 
 ## Overview

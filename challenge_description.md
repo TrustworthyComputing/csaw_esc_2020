@@ -24,13 +24,18 @@ See below for more details on the requirements of each phase.
 
 ### Qualification Phase
 
-For the qualification phase, participating teams are invited to **reverse engineer** a provided qualification binary (*to be posted on Aug 15, 2020*) using open-source reverse-engineering tools and recover secret values that unlock its functionality using different approaches and techniques. To qualify for the final phase, the teams should submit a **short report** that outlines their approaches and techniques (not necessarily only one approach/technique) utilized to reverse engineer the provided binary. To that end, the report should also explore existing techniques on the topic, focusing on (but not necessarily limited to) firmware exploitation and RISC-V hacking. The best approaches will include a discussion of existing techniques, a clear outline of reverse engineering methodologies, and a demonstration of the success and effectiveness of the team's methodology.
+For the qualification phase, participating teams are invited to **reverse engineer** a provided [qualification binary](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/qual-esc2020.elf) using open-source reverse-engineering tools and recover secret values that unlock its functionality using different approaches and techniques. To qualify for the final phase, the teams should submit a **short report** that outlines their approaches and techniques (not necessarily only one approach/technique) utilized to reverse engineer the provided binary. To that end, the report should also explore existing techniques on the topic, focusing on (but not necessarily limited to) firmware exploitation and RISC-V hacking. The best approaches will include a discussion of existing techniques, a clear outline of reverse engineering methodologies, and a demonstration of the success and effectiveness of the team's methodology.
 
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of the applied reverse-engineering techniques, as well as the completeness and quality of the compiled report.
 
+Hint 1: `qemu-system-riscv32 -nographic -machine sifive_e -kernel file.elf`
+
+Hint 2: Some [clones](https://github.com/mumbel/ghidra_riscv.git) are more important than others.
+
+
 ### Final Phase
 
-The top teams of each region (US-Canada, Europe, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level reverse-engineering on a series of increasingly secure programs. Each exploited program will be worth a number of points depending on its difficulty.
+The top teams of each region (US-Canada, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level reverse-engineering of different RISC-V programs. Each exploited program will be worth a number of points depending on its difficulty.
 
 A detailed description of the final phase will be provided when the finalists are announced.
 
