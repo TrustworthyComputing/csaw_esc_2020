@@ -35,7 +35,7 @@ Hint 2: Some [clones](https://github.com/mumbel/ghidra_riscv.git) are more impor
 
 ### Final Phase
 
-The top teams of each region (US-Canada, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level reverse-engineering of different RISC-V programs. Each exploited program will be worth a number of points depending on its difficulty.
+The top teams of each region (US-Canada, Europe, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level reverse-engineering of different RISC-V programs. Each exploited program will be worth a number of points depending on its difficulty.
 
 A detailed description of the final phase will be provided when the finalists are announced.
 

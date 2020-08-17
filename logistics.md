@@ -45,7 +45,7 @@ All ESC participants in all regions are subject to the NYU Tandon School of Engi
 Contact Information
 -------------------
 
-Teams can contact their regional organizers at the following email address: `csaw-esc@nyu.edu`. To properly route each message and avoid delays in the response, each message must prepend the tag `[US-Canada]`, `[MENA]`, or `[India]` in the subject line, depending on the region of the participating team.
+Teams can contact their regional organizers at the following email address: `csaw-esc@nyu.edu`. To properly route each message and avoid delays in the response, each message must prepend the tag `[US-Canada]`, `[Europe]`, `[MENA]`, or `[India]` in the subject line, depending on the region of the participating team.
 
 
 Responsible Disclosure
