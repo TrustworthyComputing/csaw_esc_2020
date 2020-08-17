@@ -70,4 +70,9 @@ For more registration information, policies, deadlines, deliverable details, and
 
 ---
 
+<p align="center">
+    <img src="./logos/logos.png" alt="logos"/>
+</p>
+
+
 [badge-license]: https://img.shields.io/badge/license-MIT-green.svg
