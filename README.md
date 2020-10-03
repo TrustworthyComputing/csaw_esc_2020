@@ -1,3 +1,7 @@
+###### The first challenge set has been released [here](challenges).
+
+###### The finalists are announced [here](finalists.md)
+
 CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICENSE)
 ===========================================
 <p align="center">
