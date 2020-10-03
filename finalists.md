@@ -27,13 +27,6 @@ US-Canada
 - Salt Egg, **University of Florida**, USA
 
 
-MENA
-----
-
-- Challengers, **United Arab Emirates University**, UAE
-
-- Tean Zero, **American University of Sharjah**, UAE
-
 
 India
 -----
@@ -71,6 +64,14 @@ Europe
 - ucst, **University of Piraeus**, Greece
 
 - TRX, **Sapienza University of Rome**, Italy
+
+
+MENA
+----
+
+- Team Zero, **American University of Sharjah**, UAE
+
+- Challengers, **United Arab Emirates University**, UAE
 
 
 Congratulations to all the finalist teams!

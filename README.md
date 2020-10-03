@@ -1,6 +1,6 @@
-###### The first challenge set has been released [here](challenges).
+#### The first challenge set has been released [here](challenges).
 
-###### The finalists are announced [here](finalists.md)
+#### The finalists are announced [here](finalists.md)
 
 CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICENSE)
 ===========================================
@@ -14,8 +14,9 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
 * [Registration](https://github.com/TrustworthyComputing/csaw_esc_2020#registration)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/challenge_description.md#esc-2020-challenge-description)
-* [Qualification Binary](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/qual-esc2020.elf)
-* [Qualification Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#deliverables)
+* [Final Phase Description](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/final_phase.md#final-phase)
+* [Final Binaries](https://github.com/TrustworthyComputing/csaw_esc_2020/tree/master/challenges)
+* [Final Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md)
 
 
 ## Overview
