@@ -1,4 +1,4 @@
-# ESC'19 Challenge Releases
+# ESC'20 Challenge Releases
 
 This folder contains all available challenge sets released so far.
 Each set contains independent challenges to solve and all points from all challenges are accumulated in the final score of each team. Challenges are given a different number of points based upon their difficulty;
