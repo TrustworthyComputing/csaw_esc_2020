@@ -4,7 +4,9 @@ This folder contains all available challenge sets released so far.
 Each set contains independent challenges to solve and all points from all challenges are accumulated in the final score of each team. Challenges are given a different number of points based upon their difficulty;
 the number of points for each challenge is revealed once the challenge is solved.
 
-## Uploading hex files to the board
+Note: When solving a challenge, **always keep a record of all inputs and outputs to the board**: copy and/or take screenshot of any text you send and any output text/numbers revealed to you along with the points earned. The correct solution input and any revealed text/outputs are required for the final report, along with any code you used to solve each challenge.
+
+## Uploading the .hex files to the board
 
 First install [SiFive Freedom E SDK]([https://github.com/sifive/freedom-e-sdk#setting-up-the-sdk](https://github.com/sifive/freedom-e-sdk#setting-up-the-sdk)) and ensure that all prerequisites are also installed.
 
@@ -14,7 +16,7 @@ Plug your board into a USB port on your system and then from the top-level direc
 scripts/upload --hex <REPLACE_WITH_PATH_TO_HEX_FILE>/<NAME_OF_HEX_FILE>.hex --jlink <REPLACE_WITH_PATH_TO_JLINKEXE>/JLinkExe
 ```
 
-Make sure to restart your board (press the red button) after the **hex** file is successfully uploaded. Note: the .elf files should not be uploaded to the board.  
+Make sure to restart your board (press the red button) after the **hex** file is successfully uploaded. Note: the .elf files should not be uploaded to the board; _only the .hex files are the challenge binaries._
 
 ## Communicating with the RISC-V Processor
 
