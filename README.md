@@ -1,4 +1,4 @@
-### The second challenge set has been released [here](challenges).
+### The **third** challenge set has been released [here](challenges).
 
 ### The finalists are announced [here](finalists.md)
 
