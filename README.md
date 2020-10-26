@@ -1,3 +1,5 @@
+### Middleman (setB) has been updated.
+
 ### The **last** challenge set has been released [here](challenges).
 
 ### The finalists are announced [here](finalists.md)
