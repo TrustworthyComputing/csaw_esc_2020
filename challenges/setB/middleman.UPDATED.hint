@@ -1,0 +1,4 @@
+
+The Paper-Thin Security engineers decided to use industry standard methods 
+for this firmware, and for debugging they decided to add a quick check to 
+let them know if an input was correct.
