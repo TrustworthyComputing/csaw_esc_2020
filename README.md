@@ -1,4 +1,4 @@
-### Middleman (setB) has been updated.
+### Middleman (setB) has been updated (Oct 26, 22:30 EDT).
 
 ### The **last** challenge set has been released [here](challenges).
 
