@@ -1,3 +1,10 @@
+## Virtual Finals Schedule
+US/Canada & Mena : [Google sheet](https://tinyurl.com/ESC2020-US-finals-schedule)
+
+Europe : [Google sheet](https://tinyurl.com/ESC2020-EU-finals-schedule)
+
+VFairs Platform : [join here](https://csaw2020.vfairs.com/)
+
 
 ## Final Report
 
