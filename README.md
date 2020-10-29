@@ -1,3 +1,5 @@
+### vFairs link + Virtual Finals Schedule posted [here](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md).
+
 ### Middleman (setB) has been updated (Oct 26, 22:30 EDT).
 
 ### The **last** challenge set has been released [here](challenges).
