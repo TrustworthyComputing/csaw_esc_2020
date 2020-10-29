@@ -4,9 +4,10 @@ Competition Deadlines
 -   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: **27 September 2020** ~~22 September 2020~~
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  **27 September 2020** ~~22 September 2020~~
 -   Announcement of teams qualified to the final phase: **29 September 2020** ~~24 September 2020~~
--   Final reports and associated computer files due in [HotCRP](https://hotcrp.engineering.nyu.edu/): **31 October 2020**
--   Video for vFairs platform due via email: **31 October 2020**
--   PowerPoint presentation due via email: **2 November 2020**
+-   Final reports and associated computer files due in [HotCRP](https://hotcrp.engineering.nyu.edu/): ~~**31 October 2020**~~ now **4 November 2020** (Firm deadline - no further extension possible)
+-   Video for vFairs platform due via email (send *private* Google Drive link to video): **31 October 2020** [Firm dealine from vFairs - no extension possible]
+-   PowerPoint presentation due via email (send attachment): ~~**2 November 2020**~~ now **4 November 2020** (no further extension)
+-   Registration on vFairs (_all team members must register_) before: **31 October 2020**
 
 **(All deadlines are 11:59 pm eastern US timezone)**
 

@@ -1,3 +1,5 @@
+### Final report & PPT deadline extended - Video is due Oct 31st. Visit [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines)
+
 ### vFairs link + Virtual Finals Schedule posted [here](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md).
 
 ### Middleman (setB) has been updated (Oct 26, 22:30 EDT).
