@@ -16,7 +16,7 @@ The final report should be no more than 8 pages including references and appendi
 
 ## Presentation
 
-The powerpoint presentation is limited to ***10 slides***. The presentations must be sent to the organizers via email to **csaw-esc@nyu.edu** by 2 November 2020 at 11:59pm eastern time US. Presentations should follow a standard 4:3 PowerPoint presentation template.
+The powerpoint presentation is limited to ***10 slides***. The presentations must be sent to the organizers via email to **csaw-esc@nyu.edu** by ~~2 November 2020~~ 4 November 2020 at 11:59pm eastern time US. Presentations should follow a standard 4:3 PowerPoint presentation template.
 
 
 
