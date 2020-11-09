@@ -1,18 +1,22 @@
-### Final report & PPT deadline extended - Video is due Oct 31st. Visit [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines)
-
-### vFairs link + Virtual Finals Schedule posted [here](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md).
-
-### Middleman (setB) has been updated (Oct 26, 22:30 EDT).
-
-### The **last** challenge set has been released [here](challenges).
-
-### The finalists are announced [here](finalists.md)
-
 CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICENSE)
 ===========================================
 <p align="center">
   <img src="https://www.crowdsupply.com/img/74ed/hifive1-revb-updatedlogo-03_png_project-body.jpg" alt="ESC20 WiFi AP Board"/>
 </p>
+
+------
+
+# The winners for all regions have been posted [here](winners.md). We look forward to everyone's submissions for next year's challenge!
+
+###### Final report & PPT deadline extended - Video is due Oct 31st. Visit [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/logistics.md#competition-deadlines)
+
+###### vFairs link + Virtual Finals Schedule posted [here](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md).
+
+###### Middleman (setB) has been updated (Oct 26, 22:30 EDT).
+
+###### The **last** challenge set has been released [here](challenges).
+
+###### The finalists are announced [here](finalists.md)
 
 
 ## Quick Links
@@ -23,6 +27,8 @@ CSAW 2020 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICE
 * [Final Phase Description](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/final_phase.md#final-phase)
 * [Final Binaries](https://github.com/TrustworthyComputing/csaw_esc_2020/tree/master/challenges)
 * [Final Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/deliverables-final-phase.md)
+* [CSAW ESC 2020 Winners](https://github.com/TrustworthyComputing/csaw_esc_2020/blob/master/winners.md)
+* [csaw.io/esc](https://www.csaw.io/esc)
 
 
 ## Overview
