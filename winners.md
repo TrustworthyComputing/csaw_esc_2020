@@ -1,7 +1,7 @@
 # Congratulations to the winners from each region!
 
 ## US/Canada
-1. __NUSec__ - Northwestern University
+1. __NUSec__ - Northeastern University
 	* Dennis Giese
 	* Erik Uhlmann
 	* Cameron Kennedy
